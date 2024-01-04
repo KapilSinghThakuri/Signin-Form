@@ -1,1 +1,2 @@
-This code for a Beginner. This is the Sign in From using html/css. Through this code you can make a beautiful sign in from.
+This repo for a Beginners, Who just start learning HTML/CSS.
+Through this code you can make a beautiful Signin from.
